@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: red;
+    font-size: 10vh;
+
+
+}
+
+#Time-clock {
+    background-color: aqua;
+    color: red;
+    font-size: 10vh;
+    max-width: 52vh
+}
